@@ -1,22 +1,27 @@
 # AGENTS.md — Note-Writing System
 
-## Project Overview
-Framework documentation for the Zettelkasten-based note-writing methodology. Describes principles, workflow, and implementation patterns.
+## Repository Layout
+- `README.md` — Complete framework documentation.
 
-## Content
-Single reference document (`README.md`) covering:
-1. Core principles (5 principles)
-2. Workflow (Capture → Elaborate → Connect → Output)
-3. Note structure rules (atomic, concept-oriented, densely linked)
-4. References and further reading
+## General Guidance
+- This repository documents methodology, not executable code.
+- The framework describes principles for atomic, concept-oriented, densely-linked note-taking.
+- It corresponds to the implementation in the `study-notes` repository.
+- References follow academic citation format with author-date.
 
-## Style Guide
-- Academic technical writing style
-- No emojis, no marketing language
-- Proper citations with author-date format
-- Diagrams in Mermaid format where applicable
+## Principles
+1. Notes are the fundamental unit of knowledge work.
+2. Atomicity: one concept per note.
+3. Concept orientation: organized by idea, not source.
+4. Dense linking: the web of connections is the structure.
+5. Declarative titles: complete sentences expressing claims.
 
-## Updates
-- Add new principles as methodology evolves
-- Keep references current with published research
-- Maintain correspondence with study-notes repo implementation
+## Commit Messages
+- Follow the [Chris Beams](http://chris.beams.io/posts/git-commit-style/) style.
+- Every commit should answer: what changed and why.
+
+## Review Checklist
+- Documentation is written in professional technical English.
+- All claims are supported by cited references.
+- Principles are internally consistent.
+- Correspondence with study-notes implementation is maintained.
