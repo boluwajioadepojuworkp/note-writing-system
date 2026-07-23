@@ -1,7 +1,7 @@
-# AGENTS.md — Note-Writing System
+# AGENTS.md: Note-Writing System
 
 ## Repository Layout
-- `README.md` — Complete framework documentation.
+- `README.md`: Complete framework documentation.
 
 ## General Guidance
 - This repository documents methodology, not executable code.

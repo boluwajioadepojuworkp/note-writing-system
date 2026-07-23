@@ -30,17 +30,17 @@ flowchart LR
 
 ### Elaborate
 - Convert fleeting notes to explicit, atomic form within 24 hours
-- Write as though addressing another person — future context will not be recoverable from memory
+- Write as though addressing another person: future context will not be recoverable from memory
 - Summarize each note's content in its title
 
 ### Connect
 - Link from existing notes to new notes, building on established infrastructure
-- Explain why each link exists — context outlasts the connection itself
+- Explain why each link exists: context outlasts the connection itself
 - Create structure notes that freeze thought trails for indefinite development
 
 ### Output
 - Speculative outlines are constructed by arranging note titles
-- Writing becomes an editorial process — the thinking was completed during note creation
+- Writing becomes an editorial process: the thinking was completed during note creation
 
 ## References
 
